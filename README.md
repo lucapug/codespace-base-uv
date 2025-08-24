@@ -2,12 +2,6 @@
 
 Repository base per avviare un **Codespace** con `uv` già installato.
 
-## Avvio rapido
-
-Apri il Codespace direttamente da qui:
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/TUO-USERNAME/codespace_base_uv)
-
 ## Note
 
 - Questo repo utilizza un file `.devcontainer/devcontainer.json` minimale che:
